@@ -8,8 +8,9 @@ public class FirstClass {
         System.out.println(111111);
     }
     public void test(){
+        int j=5;
         int i=10;
-        i+=0;
-        System.out.println(i);
+        int a=j>i?i+2:j+5;
+        System.out.println(a);
     }
 }
