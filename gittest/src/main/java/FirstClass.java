@@ -5,7 +5,7 @@ public class FirstClass {
         System.out.println("hello gey!");
         System.out.println("hello gey!");
         System.out.println("hello gey!");
-        System.out.println(1111111111);
+        System.out.println(111111);
     }
     public void test(){
         int i=10;
